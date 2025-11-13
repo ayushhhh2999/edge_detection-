@@ -1,0 +1,21 @@
+# Gradle files
+.gradle/
+build/
+*/build/
+
+# Android Studio
+.idea/
+*.iml
+local.properties
+
+# NDK / C++ intermediate
+obj/
+*.so
+*.o
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
