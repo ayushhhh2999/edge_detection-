@@ -1,0 +1,7 @@
+# ninja log v5
+2	1839	7814884140065885	CMakeFiles/edgedetectionapp.dir/native-lib.cpp.o	116fbd6e5dbda0fe
+1854	2680	7814884148223625	C:/Projects/EdgeDetectionApp/EdgeDetectionApp/app/build/intermediates/cxx/Debug/2f2y4p2z/obj/arm64-v8a/libedgedetectionapp.so	1aa2d510b6ed363e
+1	2606	7814889666637897	CMakeFiles/native-lib.dir/native-lib.cpp.o	366cc189e0d21f88
+2610	8522	7814889725451539	C:/Projects/EdgeDetectionApp/EdgeDetectionApp/app/build/intermediates/cxx/Debug/2f2y4p2z/obj/arm64-v8a/libnative-lib.so	e3993bf6acce9b0b
+33	4906	7816396345094681	CMakeFiles/native-lib.dir/native-lib.cpp.o	366cc189e0d21f88
+4908	14059	7816396424812106	C:/Projects/EdgeDetectionApp/EdgeDetectionApp/app/build/intermediates/cxx/Debug/2f2y4p2z/obj/arm64-v8a/libnative-lib.so	e3993bf6acce9b0b

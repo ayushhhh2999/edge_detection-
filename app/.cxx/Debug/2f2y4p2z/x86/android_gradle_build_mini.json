@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Projects\\EdgeDetectionApp\\EdgeDetectionApp\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Divya\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Projects\\EdgeDetectionApp\\EdgeDetectionApp\\app\\.cxx\\Debug\\2f2y4p2z\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Divya\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Projects\\EdgeDetectionApp\\EdgeDetectionApp\\app\\.cxx\\Debug\\2f2y4p2z\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-lib::@6890427a1f51a3e7e1df": {
+      "artifactName": "native-lib",
+      "abi": "x86",
+      "output": "C:\\Projects\\EdgeDetectionApp\\EdgeDetectionApp\\app\\build\\intermediates\\cxx\\Debug\\2f2y4p2z\\obj\\x86\\libnative-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}
